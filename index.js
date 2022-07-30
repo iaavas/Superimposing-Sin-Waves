@@ -53,7 +53,7 @@ async function load() {
     document.body.appendChild(elem2);
     
     
-    await timer(1000); 
+    await timer(100); 
     document.body.appendChild(elem3);
     
     
